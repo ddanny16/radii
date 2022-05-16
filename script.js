@@ -5,4 +5,5 @@ function myFunction(){
 }
 window.alert(5+6);
 
+
 document.getElementById("demos").addEventListener('click', myFunction)
